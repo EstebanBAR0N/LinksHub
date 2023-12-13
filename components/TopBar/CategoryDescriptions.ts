@@ -111,6 +111,8 @@ const categoryDescriptions: CategoryDescriptions = {
     'Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.',
   microservices:
     'Microservices are a software development technique—a variant of the service-oriented architecture (SOA) architectural style that structures an application as a collection of loosely coupled services.',
+  terraform:
+    'Terraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently.',
 
   // AI
   'artificial intelligence':

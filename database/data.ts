@@ -168,6 +168,11 @@ export const sidebarData: ISidebar[] = [
         url: '/microservices',
         resources: DB.microservices,
       },
+      {
+        name: 'terraform',
+        url: '/terraform',
+        resources: DB.terraform,
+      },
     ],
   },
   {

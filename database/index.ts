@@ -34,6 +34,7 @@ export { default as docker } from './devops/docker.json'
 export { default as jenkins } from './devops/jenkins.json'
 export { default as kubernetes } from './devops/kubernetes.json'
 export { default as microservices } from './devops/microservices.json'
+export { default as terraform } from './devops/terraform.json'
 
 // languages
 export { default as javascript } from './languages/javascript.json'
